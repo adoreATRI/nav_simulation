@@ -1,0 +1,4 @@
+# 编译文件
+build/
+install/
+log/

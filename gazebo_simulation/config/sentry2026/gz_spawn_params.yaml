@@ -1,0 +1,13 @@
+/**:
+  ros__parameters:
+    # ros_gz_sim create reads the Xacro-expanded robot XML from this topic.
+    topic: robot_description
+    world: default
+    name: sentry
+    allow_renaming: false
+    x: 4.5
+    y: 8.05
+    z: 0.241
+    R: 0.0
+    P: 0.0
+    Y: 0.0
