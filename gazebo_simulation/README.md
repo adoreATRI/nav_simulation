@@ -18,8 +18,10 @@ gazebo_simulation
 │   ├── robot_bringup.launch.py        # 启动机器人模型
 │   ├── simulation_bringup.launch.py   # 启动仿真启动入口
 │   └── world_bringup.launch.py        # 启动仿真世界
-├── meshes                             # 模型网格文件
-├── robots                             # 机器人xacro文件     
+├── meshes                             # 机器人和世界网格文件
+├── models                             # 传感器模型文件
+├── robots                             # 机器人xacro文件  
+├── rviz                               # rviz配置文件   
 └── worlds                             # 世界sdf文件
 ```
 
